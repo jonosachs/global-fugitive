@@ -4,6 +4,8 @@ _Initial Build: Aug 2024_
 
 An Android geography guessing game built with Kotlin and Jetpack Compose. A fugitive is hiding somewhere in the world — you have 5 guesses to track him down.
 
+![screenshot.png](screenshot.png)
+
 ## Gameplay
 
 - A random mystery country is selected at the start of each game
